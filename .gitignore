@@ -4,3 +4,7 @@ docs/build
 # documentation artifacts
 html/*
 !html/HTML_DOCS_WILL_BE_GENERATED_HERE
+
+# IDE configs
+.idea/
+.vscode/
